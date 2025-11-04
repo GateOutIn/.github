@@ -25,7 +25,7 @@ It consists of **three role-based Android apps** powered by a robust Spring Boot
 | 🎓 **Student App** | Students apply for gate passes, track approvals, and view history. | [GitHub Repo](https://github.com/GateOutIn/GatePassAndroid) | [Download APK](https://github.com/GateOutIn/GatePassAndroid/releases) |
 | 🧑‍💼 **Admin App** | Admins manage users, approve/reject passes, and view analytics. | [GitHub Repo](https://github.com/GateOutIn/GatePassAdmin) | [Download APK](https://github.com/GateOutIn/GatePassAdmin/releases) |
 | 👮 **Guard App** | Guards verify passes using QR codes and log entry/exit. | [GitHub Repo](https://github.com/GateOutIn/GatePassGuard) | [Download APK](https://github.com/GateOutIn/GatePassGuard/releases)|
-| 💻 **Backend Server** | Spring Boot backend managing APIs, roles, and database connection — fully containerized with Docker. | [GitHub Repo](https://github.com/GateOutIn/GatePassServer) | [Docker Image Pull](https://github.com/GateOutIn/GatePassGuard/releases) |
+| 💻 **Backend Server** | Spring Boot backend managing APIs, roles, and database connection — fully containerized with Docker. | [GitHub Repo](https://github.com/GateOutIn/GatePassServer) | [Docker Image Pull](https://hub.docker.com/r/ranjit485/gatepass-app) |
 
 ---
 
