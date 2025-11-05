@@ -13,7 +13,6 @@
   <b>Smart Digital Gate Pass Management — Secure, Fast & Automated</b>
 </p>
 
----
 
 ## 🧩 Overview
 
@@ -27,8 +26,9 @@ It consists of **three role-based Android apps** powered by a robust Spring Boot
 | 👮 **Guard App** | Guards verify passes using QR codes and log entry/exit. | [GitHub Repo](https://github.com/GateOutIn/GatePassGuard) | [Download APK](https://github.com/GateOutIn/GatePassGuard/releases)|
 | 💻 **Backend Server** | Spring Boot backend managing APIs, roles, and database connection — fully containerized with Docker. | [GitHub Repo](https://github.com/GateOutIn/GatePassServer) | [Docker Image Pull](https://hub.docker.com/r/ranjit485/gatepass-app) |
 
----
+<img src="20251105_094908.jpg" />
 
+<img src="20251105_091620.jpg" />
 ## 🛠️ Tech Stack  
 
 **Backend:** Spring Boot (REST APIs, JWT Auth, Role-based Access)  
